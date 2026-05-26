@@ -291,5 +291,5 @@ The project is provided exclusively for:
 
 Commercial usage, production deployment, managed services, sublicensing, resale, or integration into commercial systems is prohibited without explicit prior written permission from the author.
 
-See the [`LICENSE.txt`](./LICENSE.txt) file for the complete license terms.
+See the [`LICENSE`](./LICENSE) file for the complete license terms.
 
