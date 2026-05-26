@@ -1,0 +1,11 @@
+# requirements file generated from labs/deepagents/code_as_agent_harness/governed_agent_runtime.py
+# Only packages imported or conditionally required by that file are included.
+# Pin versions as needed for your environment.
+
+deepagents
+langgraph
+langchain
+langchain-core
+langchain-quickjs
+pydantic
+

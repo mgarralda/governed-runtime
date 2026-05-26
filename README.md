@@ -1,6 +1,6 @@
-# Governed Runtime Evolution in Multi-Agent Systems through Executable Operational Cognition
+# Governed Evolution of Agent Runtimes through Executable Operational Cognition
 
-> A governance-aware runtime substrate for persistent capability evolution on top of LangGraph DeepAgents.
+> A governance-aware runtime substrate for persistent capability evolution on top of LangGraph / DeepAgents.
 
 ---
 
@@ -8,7 +8,7 @@
 
 This repository provides a research reference implementation accompanying the paper:
 
-> **Governed Runtime Evolution in Multi-Agent Systems through Executable Operational Cognition**  
+> **Governed Evolution of Agent Runtimes through Executable Operational Cognition**  
 > *A Systems Vision Paper*
 
 The project explores how agent-generated artifacts can evolve from transient outputs into persistent operational capabilities under explicit governance constraints.
@@ -129,7 +129,7 @@ This decomposition avoids monolithic self-modifying loops and instead promotes b
 
 ## Relationship to LangGraph / DeepAgents
 
-This repository intentionally builds on top of LangGraph DeepAgents.
+This repository intentionally builds on top of the LangGraph / DeepAgents ecosystem.
 
 ### DeepAgents provides
 
@@ -171,10 +171,7 @@ Key concepts from the paper map directly to runtime components:
 
 The implementation intentionally exposes explicit paper-to-code traceability through inline comments such as:
 
-```
-
-Academic publications or derivative research works using this repository should provide appropriate citation to both the associated paper and repository.
-python
+```python
 # Implements: governed mutation proposal stage from the paper.
 ```
 
@@ -294,5 +291,5 @@ The project is provided exclusively for:
 
 Commercial usage, production deployment, managed services, sublicensing, resale, or integration into commercial systems is prohibited without explicit prior written permission from the author.
 
-See the [`LICENSE`](./LICENSE) file for the complete license terms.
+See the [`LICENSE.txt`](./LICENSE.txt) file for the complete license terms.
 
