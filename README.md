@@ -267,11 +267,14 @@ Do **not** expose these capabilities to untrusted environments without additiona
 If you use this repository or the associated ideas in academic work, please cite:
 
 ```bibtex
-@article{garralda2026governedruntimeevolution,
-  title={Governed Runtime Evolution in Multi-Agent Systems through Executable Operational Cognition},
-  author={Garralda-Barrio, Mariano},
-  journal={arXiv preprint arXiv},
-  year={2026}
+@misc{garraldabarrio2026governedevolutionagentruntimes,
+      title={Governed Evolution of Agent Runtimes through Executable Operational Cognition}, 
+      author={Mariano Garralda-Barrio},
+      year={2026},
+      eprint={2605.27328},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2605.27328}, 
 }
 ```
 
